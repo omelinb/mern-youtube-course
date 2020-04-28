@@ -1,0 +1,17 @@
+npm i express mongoose
+npm i -D nodemon concurrently
+  // 'nodemon' allow to load server with autoupdate when develop
+
+npm i config
+npm i bcryptjs
+npm i express-validator
+npm i jsonwebtoken
+npm shortid
+
+// client
+npx create-react-app
+npm i materialize-css@next
+npm i react-router-dom
+
+
+npm i --save-dev cross-env

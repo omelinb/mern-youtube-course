@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "My Mega Secret Key",
+  "mongoUri": "mongodb+srv://omelinb:qwerty123@cluster0-c0f57.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
